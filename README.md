@@ -45,12 +45,10 @@ The following is a list of steps and instructions on how to complete this guided
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
-<<<<<<< HEAD
 ### Bernie Durfee
 
 ### Rob Houck
-=======
-<<<<<<< HEAD
+
 ### Ryan Hamblin
 
 ### Jonny D
@@ -58,7 +56,5 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice D
 
 ### Sam Munro
-=======
-### I'm a merge conflict!!!! 👻 
->>>>>>> 02349c61d6080bc82cdc4bfbadf2cbb1a5232526
->>>>>>> c269aa2a0d61e10834e1fe342bf5ba575cff1d4a
+
+### I'm a merge conflict!!!! 👻
