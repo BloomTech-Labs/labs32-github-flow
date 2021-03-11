@@ -55,6 +55,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice D
 
+### David C
+
 ### Brennan Lawrence
 
 ### Livy Toolson
@@ -62,6 +64,3 @@ The following is a list of steps and instructions on how to complete this guided
 ### Sam Munro
 
 ### Corey Power
-
-### I'm a merge conflict!!!! 👻 
-
