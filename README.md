@@ -72,4 +72,14 @@ The following is a list of steps and instructions on how to complete this guided
 ### Sam Munro
 
 ### Corey Power
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+### Emily Ryan
+
+### I'm a merge conflict!!!! 👻 
+
+=======
+>>>>>>> f0cd4ac0f56db16cfea0ffec59320d9a8d864b91
 >>>>>>> 62ee2dc92848690c92b7dd7f86dc50a69cea8d72
