@@ -59,10 +59,19 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice D
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Sam Munro
 
 ### I'm a merge conflict!!!! 👻
 =======
+=======
+### Scott Allen
+
+### Sam Munro
+
+
+
+>>>>>>> a547792001fe838797510ccfe90aa15e6bb1917a
 ### David C
 
 ### Brennan Lawrence
