@@ -55,6 +55,12 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice D
 
+=======
+### Sam Munro
+=======
+### I'm a merge conflict!!!! 👻 
+
+=======
 ### David C
 
 ### Brennan Lawrence
@@ -64,3 +70,5 @@ The following is a list of steps and instructions on how to complete this guided
 ### Sam Munro
 
 ### Corey Power
+
+### Justin Bryan
