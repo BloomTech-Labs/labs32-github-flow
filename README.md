@@ -49,12 +49,27 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Rob Houck
 
+### Collin Campbell
+
+
 ### Ryan Hamblin
 
 ### Jonny D
 
 ### Alice D
 
+<<<<<<< HEAD
 ### Sam Munro
 
 ### I'm a merge conflict!!!! 👻
+=======
+### David C
+
+### Brennan Lawrence
+
+### Livy Toolson
+
+### Sam Munro
+
+### Corey Power
+>>>>>>> 62ee2dc92848690c92b7dd7f86dc50a69cea8d72
