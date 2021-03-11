@@ -66,10 +66,6 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Corey Power
 
-<<<<<<< HEAD
-## Bobby Briksza
-=======
 ### Emily Ryan
 
-### I'm a merge conflict!!!! 👻 
->>>>>>> b62505e6aff640b060f5e1a91f5ddb821578f38a
+### Bobby Briksza
