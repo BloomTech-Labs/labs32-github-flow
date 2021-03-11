@@ -51,7 +51,7 @@ The following is a list of steps and instructions on how to complete this guided
 ### Jonny D
 
 ### Alice D
-
+### Nathaniel Patterson
 ### Sam Munro
 
 ### Corey Power
