@@ -56,5 +56,11 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Sam Munro
 
+<<<<<<< HEAD
 ### I'm a merge conflict!!!! 👻
+=======
+### Corey Power
+
+### I'm a merge conflict!!!! 👻 
+>>>>>>> dbf89c74b2d9e631ff13705f630d31efec867352
 
