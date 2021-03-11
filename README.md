@@ -53,6 +53,10 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Jonny D
 
+<<<<<<< HEAD
+### Tasha Marie
+
+=======
 ### Alice D
 
 ### Scott Allen
@@ -70,7 +74,11 @@ The following is a list of steps and instructions on how to complete this guided
 ### Sam Munro
 
 ### Corey Power
+<<<<<<< HEAD
+>>>>>>> 62ee2dc92848690c92b7dd7f86dc50a69cea8d72
+=======
 
 ### Emily Ryan
 
 ### I'm a merge conflict!!!! 👻 
+>>>>>>> a547792001fe838797510ccfe90aa15e6bb1917a
