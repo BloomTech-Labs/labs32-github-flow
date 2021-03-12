@@ -55,6 +55,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice D
 
+
+### Tatiana Efimova
+
 ### Brandon O'Neal
 
 ### David C
@@ -70,3 +73,4 @@ The following is a list of steps and instructions on how to complete this guided
 ### Emily Ryan
 
 ### Bobby Briksza
+
