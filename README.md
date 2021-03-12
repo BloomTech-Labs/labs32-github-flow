@@ -47,8 +47,28 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Dionne Stratton
 
+### Nick Adamski
+
+### Collin Campbell
+
 ### Ryan Hamblin
 
 ### Jonny D
 
 ### Alice D
+
+### Brandon O'Neal
+
+### David C
+
+### Brennan Lawrence
+
+### Livy Toolson
+
+### Sam Munro
+
+### Corey Power
+
+### Emily Ryan
+
+### Bobby Briksza
